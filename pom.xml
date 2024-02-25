@@ -8,7 +8,7 @@
         <version>3.2.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.mimaraslan</groupId>
+    <groupId>com.yakpzngin</groupId>
     <artifactId>Java_045_DevOpsPipeline</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Java_045_DevOpsPipeline</name>
