@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yakpzngin</groupId>
-    <artifactId>Java_045_DevOpsPipeline</artifactId>
+    <artifactId>Java_DevOpsPipeline</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Java_045_DevOpsPipeline</name>
-    <description>Java_045_DevOpsPipeline</description>
+    <name>Java_DevOpsPipeline</name>
+    <description>Java_DevOpsPipeline</description>
     <properties>
         <java.version>17</java.version>
     </properties>
